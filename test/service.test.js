@@ -48,6 +48,7 @@ describe('Service', function () {
 
 	describe('#data', function () {
 		it('should process the data and send back a result', function (done) {
+            this.timeout(10000);
 			var requestId = (new Date()).getTime().toString();
 
 			service.on('message', function (message) {
