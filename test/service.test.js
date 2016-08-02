@@ -54,7 +54,7 @@ describe('Service', function () {
 			service.on('message', function (message) {
 				if (message.type === 'result') {
 					var data = JSON.parse(message.data);
-
+                    //should have at least one result
 					should.equal(data[0].candidates.length, 1, 'Invalid return data.');
 					done();
 				}
