@@ -16,7 +16,7 @@ To configure this plugin, a Microsoft Account is need to provide the following:
 
 These parameters are then injected to the plugin from the platform.
 
-## Sample input data for adding and updating devices
+## Sample input data for verifying faces
 ```
 {
     image: <base64 image here>, // required
