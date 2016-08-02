@@ -1,5 +1,5 @@
 # Face Identification Service
-[![Build Status](https://travis-ci.org/Reekoh/mnubo-connector.svg)](https://travis-ci.org/Reekoh/face-identification-service)
+[![Build Status](https://travis-ci.org/Reekoh/face-identification-service.svg)](https://travis-ci.org/Reekoh/face-identification-service)
 ![Dependencies](https://img.shields.io/david/Reekoh/face-identification-service.svg)
 ![Dependencies](https://img.shields.io/david/dev/Reekoh/face-identification-service.svg)
 ![Built With](https://img.shields.io/badge/built%20with-gulp-red.svg)
