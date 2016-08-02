@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Reekoh/service-plugin-seed"
+    "url": "https://github.com/Reekoh/face-identification-service"
   },
   "dependencies": {
     "lodash.get": "^4.4.1",
